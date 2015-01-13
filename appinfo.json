@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Echosa",
+    "longName": "Etchist",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Etchist",
+    "uuid": "6bd55f32-4802-4fea-b12d-749394dac8a4",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
